@@ -7,3 +7,4 @@ https://www.alura.com.br/curso-online-spring-boot-api-rest
 
 https://www.alura.com.br/curso-online-spring-boot-seguranca-cache-monitoramento
 
+https://www.alura.com.br/curso-online-spring-boot-profiles-testes-deploy
